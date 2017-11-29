@@ -1,0 +1,68 @@
+
+body {
+  margin: 0;
+}
+
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: top;
+}
+h4{
+	text-align: left;
+}
+tr{
+	display: table-row;
+	vertical-align: inherit;
+}
+ table{
+ 	display: table-row;
+ 	border-collapse: separate;
+ 	border-spacing: 40px;
+ }
+.banner {
+  background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%), 
+ url(http://www.abbajahnhoy.fr/ressources/images/98f3e3c79d88.jpg);
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+  padding: 150px 150px;
+  color: white;
+}
+h4{
+	text-align: center;
+}
+h3{
+	text-align: right;
+}
+
+body {
+  font-family: Comic Sans MS;
+}
+
+.button {
+  background: #FFBE26;
+  color: white;
+  padding: 8px 12px;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+.button-block {
+  display: block;
+  text-align: center;
+  margin: 12px 0;
+}
+
+
+
+
+
+
+
+
+ 
